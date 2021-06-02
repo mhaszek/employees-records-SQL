@@ -67,3 +67,8 @@ To run the example locally create table schema for each of the six CSV files in 
  * Matplotlib
  * sqlalchemy  
  * PostgreSQL
+
+
+#
+
+#### Contact: mil.haszek@gmail.com
